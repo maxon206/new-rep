@@ -9,114 +9,114 @@
     "id": "2",
     "name": "Пепперони",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/4sir.jpg",
-    "info": "Острая пепперони, сыр, томатный соус. 30 см, 590 руб."
+    "info": "Острая пепперони, сыр, томатный соус. 30 см."
   },
   {
     "id": "3",
     "name": "Четыре сыра",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/peperoni.jpg",
-    "info": "Моцарелла, пармезан, горгонзола, фета. 30 см, 650 руб."
+    "info": "Моцарелла, пармезан, горгонзола, фета. 30 см."
   },
   {
     "id": "4",
     "name": "Гавайская",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/gava.jpg",
-    "info": "Курица, ананас, сыр, томатный соус. 30 см, 580 руб."
+    "info": "Курица, ананас, сыр, томатный соус. 30 см."
   },
   {
     "id": "5",
     "name": "Филадельфия классик",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/fil.jpg",
-    "info": "Лосось, сливочный сыр, огурец. 8 шт., 620 руб."
+    "info": "Лосось, сливочный сыр, огурец. 8 шт."
   },
   {
     "id": "6",
     "name": "Калифорния",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/kalif.jpg",
-    "info": "Краб, авокадо, огурец, кунжут. 8 шт., 590 руб."
+    "info": "Краб, авокадо, огурец, кунжут. 8 шт."
   },
   {
     "id": "7",
     "name": "Унаги маки",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/ynagi.jpg",
-    "info": "Угорь, огурец, соус унаги. 8 шт., 750 руб."
+    "info": "Угорь, огурец, соус унаги. 8 шт."
   },
   {
     "id": "8",
     "name": "Чикен терияки",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/chiken.jpg",
-    "info": "Курица, соус терияки, кунжут, рис. 420 руб."
+    "info": "Курица, соус терияки, кунжут, рис."
   },
   {
     "id": "9",
     "name": "Бургер Биг Хит",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/co.png",
-    "info": "Говяжья котлета, сыр, бекон, соус BBQ. 520 руб."
+    "info": "Говяжья котлета, сыр, бекон, соус BBQ."
   },
   {
     "id": "10",
     "name": "Бургер Цезарь",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/po.png",
-    "info": "Курица, салат айсберг, соус цезарь, пармезан. 490 руб."
+    "info": "Курица, салат айсберг, соус цезарь, пармезан."
   },
   {
     "id": "11",
     "name": "Вок с курицей и овощами",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/vo.png",
-    "info": "Лапша удон, курица, болгарский перец, соус терияки. 460 руб."
+    "info": "Лапша удон, курица, болгарский перец, соус терияки."
   },
   {
     "id": "12",
     "name": "Вок с морепродуктами",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/so.png",
-    "info": "Креветки, мидии, кальмары, рис, соус чили. 680 руб."
+    "info": "Креветки, мидии, кальмары, рис, соус чили."
   },
   {
     "id": "13",
     "name": "Салат Греческий",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/gg.png",
-    "info": "Фета, оливки, помидоры, огурец, перец, заправка. 380 руб."
+    "info": "Фета, оливки, помидоры, огурец, перец, заправка."
   },
   {
     "id": "14",
     "name": "Салат Цезарь с креветками",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/fd.png",
-    "info": "Креветки, салат романо, пармезан, сухарики. 490 руб."
+    "info": "Креветки, салат романо, пармезан, сухарики."
   },
   {
     "id": "15",
     "name": "Картошка фри",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/g3.png",
-    "info": "Хрустящая картошка, соль, соус на выбор. 190 руб."
+    "info": "Хрустящая картошка, соль, соус на выбор."
   },
   {
     "id": "16",
     "name": "Крылышки BBQ",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/ki.png",
-    "info": "Куриные крылья, соус барбекю, кунжут. 320 руб."
+    "info": "Куриные крылья, соус барбекю, кунжут."
   },
   {
     "id": "17",
     "name": "Чизкейк Нью-Йорк",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/o3Ihl.jpg",
-    "info": "Нежный чизкейк с клубничным соусом. 280 руб."
+    "info": "Нежный чизкейк с клубничным соусом."
   },
   {
     "id": "18",
     "name": "Тирамису",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/Wu9fT.jpg",
-    "info": "Классический итальянский десерт с маскарпоне. 320 руб."
+    "info": "Классический итальянский десерт с маскарпоне."
   },
   {
     "id": "19",
     "name": "Морс клюквенный",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/a6oCv.jpg",
-    "info": "Домашний клюквенный морс, 0.5 л. 150 руб."
+    "info": "Домашний клюквенный морс, 0.5 л."
   },
   {
     "id": "20",
     "name": "Лимонад мятный",
     "photo": "https://raw.githubusercontent.com/maxon206/new-rep/main/F7Vej.jpg",
-    "info": "Свежая мята, лимон, лайм, газировка. 180 руб."
+    "info": "Свежая мята, лимон, лайм, газировка."
   }
 ]
